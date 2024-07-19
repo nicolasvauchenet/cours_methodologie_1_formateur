@@ -1,36 +1,40 @@
 # Exigences Fonctionnelles et Acteurs :
 
-1. **Programmation et horaires des artistes**
+## 1. **Programmation et horaires des artistes**
 
 - **Acteurs :**
     - Régisseur Artistique
     - Régisseur Technique
     - Techniciens de Scène
     - Bénévoles
+
 - **Fonctionnalités clés :**
     - **Planification des performances :**  
-      Établissement d'un calendrier initial pour les performances sur les deux scènes, en tenant compte des contraintes
-      de temps et de l'espace.
+      Établissement d'un calendrier initial pour les performances sur les deux scènes, en tenant compte des
+      contraintes de temps et de l'espace.
     - **Attribution des créneaux horaires sur les deux scènes :**  
-      Allocation des artistes aux deux scènes en fonction de leur genre musical et de leur popularité prévue, tout en
-      respectant les contraintes techniques de chaque scène.
+      Allocation des artistes aux deux scènes en fonction de leur genre musical et de leur popularité prévue, tout
+      en respectant les contraintes techniques de chaque scène.
     - **Gestion des changements de dernière minute :**  
-      Adaptation rapide du planning en cas d'imprévus tels que retards, annulations, ou prolongations des performances.
+      Adaptation rapide du planning en cas d'imprévus tels que retards, annulations, ou prolongations des
+      performances.
     - **Gestion de la programmation en temps réel :**  
-      Ajustement en direct des horaires et des performances, visible par tous les acteurs via une interface centralisée.
+      Ajustement en direct des horaires et des performances, visible par tous les acteurs via une interface
+      centralisée.
     - **Interface de visualisation des plannings :**  
-      Mise à disposition d'un outil graphique pour surveiller et ajuster la programmation en temps réel, accessible aux
-      coordinateurs, techniciens, et bénévoles.
+      Mise à disposition d'un outil graphique pour surveiller et ajuster la programmation en temps réel, accessible
+      aux coordinateurs, techniciens, et bénévoles.
     - **Communication automatique des horaires :**  
-      Envoi automatisé des horaires et des mises à jour aux artistes, équipes techniques, et bénévoles, facilitant ainsi
-      la coordination sur le terrain.
+      Envoi automatisé des horaires et des mises à jour aux artistes, équipes techniques, et bénévoles, facilitant
+      ainsi la coordination sur le terrain.
+
 - **Fonctionnalités métier :**
     - **Synchronisation avec les disponibilités des artistes :**  
       Coordination avec les agents et les artistes pour s'assurer que les horaires proposés correspondent à leurs
       disponibilités et besoins logistiques.
     - **Ajustements basés sur les conditions météorologiques ou techniques :**   
-      Modification des horaires en fonction des conditions météo défavorables ou de problèmes techniques, avec des plans
-      de secours prédéfinis.
+      Modification des horaires en fonction des conditions météo défavorables ou de problèmes techniques, avec des
+      plans de secours prédéfinis.
     - **Planification basée sur la popularité prévue :**  
       Analyse des données de vente de billets et des tendances des médias sociaux pour optimiser l'attribution des
       artistes aux scènes, maximisant ainsi l'engagement du public.
@@ -42,6 +46,7 @@
       chevauchements et tirer parti des flux de visiteurs.
     - **Gestion des droits d'auteur et des redevances :**   
       Assurer le respect des droits d'auteur et le paiement des redevances aux artistes et aux ayants droit.
+
 - **Contraintes et risques :**
     - **Contraintes légales :**  
       Respect des droits d'auteur et des redevances.
@@ -53,7 +58,7 @@
     - **Risques :**  
       Annulation ou retard d'un artiste, problèmes techniques, conflits d'horaires.
 
-2. **Accueil et services aux artistes**
+## 2. **Accueil et services aux artistes**
 
 - **Acteurs :**
     - Personnel d'Accueil
@@ -110,7 +115,7 @@
     - **Risques :**  
       Insatisfaction des artistes, problèmes de santé, incidents de sécurité.
 
-3. **Logistique du festival**
+## 3. **Logistique du festival**
 
 - **Acteurs :**
     - Régisseur Général
@@ -171,7 +176,7 @@
     - **Risques :**  
       Incidents météorologiques, problèmes techniques, incidents de sécurité.
 
-4. **Communication et publicité**
+## 4. **Communication et publicité**
 
 - **Acteurs :**
     - Chargé de Communication
@@ -232,7 +237,7 @@
     - **Risques :**  
       Mauvaise réputation, communication crisique, échec d'une campagne publicitaire.
 
-5. **Gestion de la billetterie et services sur site**
+## 5. **Gestion de la billetterie et services sur site**
 
 - **Acteurs :**
     - Agent de billetterie
@@ -289,7 +294,7 @@
     - **Risques :**  
       Fraude, saturation des points d'accès, insatisfaction des spectateurs.
 
-6. Budgétisation du festival
+## 6. Budgétisation du festival
 
 - **Acteurs :**
     - Directeur Financier
