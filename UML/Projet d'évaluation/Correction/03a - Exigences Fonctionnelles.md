@@ -66,6 +66,7 @@
     - Fournisseurs de Catering
     - Régisseur Technique
     - Bénévoles
+
 - **Fonctionnalités clés :**
     - **Voiturage et accueil des artistes à leur arrivée :**  
       Mise en place d'un processus d'accueil personnalisé pour chaque artiste, incluant le voiturage depuis les points
@@ -88,6 +89,7 @@
     - **Gestion des demandes spéciales :**  
       Prise en charge des demandes spéciales des artistes, telles que des équipements spécifiques ou des aménagements
       particuliers.
+
 - **Fonctionnalités métier :**
     - **Adaptation des services en fonction des exigences spécifiques des artistes :**  
       Personnalisation des services offerts, de l'hébergement à la restauration, en fonction des demandes et des
@@ -107,6 +109,7 @@
     - **Assistance pour les équipements spéciaux :**  
       Fourniture et gestion des équipements spéciaux nécessaires pour les performances ou le confort personnel des
       artistes, comme des demandes spécifiques en matière de sonorisation ou d'aménagement des logements.
+
 - **Contraintes et risques :**
     - **Contraintes logistiques :**  
       Disponibilité des hébergements, des transports et des services de restauration.
@@ -124,6 +127,7 @@
     - Techniciens de Scène
     - Fournisseurs et Prestataires
     - Bénévoles
+
 - **Fonctionnalités clés :**
     - **Coordination de l'installation et du démontage du matériel scénique :**  
       Organisation efficace des opérations d'installation et de démontage avant et après les performances, ainsi que
@@ -146,6 +150,7 @@
     - **Gestion des déchets et du recyclage :**  
       Mise en place d'un système de gestion des déchets et de recyclage pour minimiser l'impact environnemental du
       festival.
+
 - **Fonctionnalités métier :**
     - **Approvisionnement en équipement technique :**  
       Gestion des commandes et des stocks d'équipements techniques nécessaires pour les performances.
@@ -166,6 +171,7 @@
     - **Suivi des conditions météorologiques :**  
       Monitoring continu du climat pour adapter les plans et les activités en fonction des conditions météo, minimisant
       les risques et maximisant le confort des participants.
+
 - **Contraintes et risques :**
     - **Contraintes environnementales :**  
       Respect des réglementations environnementales et gestion des déchets.
@@ -186,6 +192,7 @@
     - Influenceurs
     - Artistes
     - Bénévoles
+
 - **Fonctionnalités clés :**
     - **Lancement et suivi des campagnes publicitaires :**  
       Création et gestion de campagnes publicitaires multiplateformes, incluant le suivi de leur performance pour
@@ -207,6 +214,7 @@
       participant et renforçant l'engagement.
     - **Création de contenus pour les réseaux sociaux :**  
       Production de contenus attractifs et engageants pour les réseaux sociaux (photos, vidéos, stories, etc.).
+
 - **Fonctionnalités métier :**
     - **Interaction avec les médias :**  
       Organisation de conférences de presse, rédaction de communiqués de presse, et facilitation des relations entre les
@@ -229,6 +237,7 @@
     - **Programmes de fidélité et incitations :**  
       Conception de programmes incitatifs pour fidéliser les participants et les encourager à participer à des éditions
       futures du festival.
+
 - **Contraintes et risques :**
     - **Contraintes légales :**  
       Respect des droits à l'image et des droits d'auteur.
@@ -245,6 +254,7 @@
     - Régisseur Général
     - Équipes de Sécurité
     - Bénévoles
+
 - **Fonctionnalités clés :**
     - **Vente et validation des billets :**  
       Mise en œuvre de systèmes de billetterie en ligne et sur site pour la vente et la validation des billets, incluant
@@ -264,6 +274,7 @@
     - **Gestion des files d'attente :**  
       Mise en place d'un système de gestion des files d'attente pour optimiser le flux des spectateurs et réduire les
       temps d'attente.
+
 - **Fonctionnalités métier :**
     - **Offres promotionnelles et remises :**  
       Développement de promotions ciblées et de remises pour attirer différents groupes de visiteurs et augmenter la
@@ -286,6 +297,7 @@
     - **Planification des évacuations et des urgences :**  
       Mise en place de protocoles d'urgence pour les situations nécessitant une évacuation rapide ou des interventions
       médicales, garantissant la sécurité de tous les participants.
+
 - **Contraintes et risques :**
     - **Contraintes réglementaires :**  
       Respect des normes de sécurité et d'accessibilité pour les personnes à mobilité réduite.
@@ -301,6 +313,7 @@
     - Comptables
     - Analystes Financiers
     - Chefs de département (ex : Logistique, Communication, Artistes)
+
 - **Fonctionnalités clés :**
     - **Élaboration et suivi du budget global du festival :**  
       Création d'un cadre budgétaire initial basé sur les prévisions de revenus et de dépenses, et suivi continu pour
@@ -321,6 +334,7 @@
       transparence.
     - **Gestion des subventions et des partenariats :**  
       Recherche et gestion des subventions et des partenariats pour financer le festival.
+
 - **Fonctionnalités métier :**
     - **Allocation des fonds selon les priorités et les besoins du festival :**  
       Distribution des ressources financières basée sur une évaluation détaillée des priorités du festival, assurant un
@@ -345,6 +359,7 @@
       les aidant à gérer plus efficacement leurs budgets.
     - **Système de récompense pour la gestion efficace du budget :**  
       Institution d'incitations pour promouvoir une gestion financière prudente et innovante au sein des équipes.
+
 - **Contraintes et risques :**
     - **Contraintes financières :**  
       Respect du budget alloué et optimisation des dépenses.
