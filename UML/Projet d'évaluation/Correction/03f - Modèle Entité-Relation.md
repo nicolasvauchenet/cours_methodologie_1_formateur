@@ -1,6 +1,6 @@
-# Modèle Entité-Association
+# Modèle Entité-Relation
 
-1. Entités :
+## 1. Entités :
 
 - Artiste
     - ID (clé primaire)
@@ -93,7 +93,7 @@
     - ID (clé primaire)
     - Nom
 
-2. Associations :
+## 2. Associations :
 
 - Un Artiste peut avoir plusieurs Performances, et une Performance est associée à un Artiste. (1 Artiste - *
   Performance)
